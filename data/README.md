@@ -10,6 +10,13 @@ Las imágenes para probar el pipeline deben ubicarse en:
 data/demo_images/
 ```
 
+Ejemplo:
+
+```text
+data/demo_images/obra_01.jpg
+data/demo_images/obra_02.jpg
+```
+
 Para ejecutar la demo:
 
 ```bash
