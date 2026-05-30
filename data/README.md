@@ -22,10 +22,10 @@ El dataset combinado completo no se incluye en este repositorio debido a su tama
 
 El dataset final fue construido a partir de:
 
-- Safety Helmet Detection Dataset
-- PPE Detection Dataset
-- Worker Detection Dataset
-- SafetyHelmetWearing Dataset, SHWD
+- [Dataset safety helmet detection Computer Vision Model](https://universe.roboflow.com/marina-wgvsb/safety-helmet-detection-apiwd/dataset/1)
+- [PPE detection Computer Vision Model](https://universe.roboflow.com/testcasque/ppe-detection-qlq3d)
+- [Worker detection Computer Vision Model](https://universe.roboflow.com/inzynierka-fcqsu/worker-detection-wh7fp/browse?queryText=class%3Aworker&pageSize=50&startingIndex=0&browseQuery=true)
+- [SafetyHelmetWearing Dataset, SHWD](https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset)
 
 Estructura esperada del dataset completo:
 
