@@ -33,4 +33,4 @@ python run_pipeline.py --mode demo
 
 El archivo `best.pt` puede descargarse desde:
 
-[Descargar best.pt](PEGA_AQUI_TU_LINK_DE_GOOGLE_DRIVE)
+[Descargar best.pt](https://drive.google.com/file/d/1WFgaC-6aEQhsuGMsYLinGGm-Kr9DfbS8/view?usp=sharing)
