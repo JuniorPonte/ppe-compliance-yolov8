@@ -1,0 +1,44 @@
+# Data
+
+Esta carpeta contiene imágenes de demostración para ejecutar el pipeline final.
+
+## Imágenes de demostración
+
+Las imágenes para probar el pipeline deben ubicarse en:
+
+```text
+data/demo_images/
+```
+
+Para ejecutar la demo:
+
+```bash
+python run_pipeline.py --mode demo
+```
+
+## Dataset completo
+
+El dataset combinado completo no se incluye en este repositorio debido a su tamaño.
+
+El dataset final fue construido a partir de:
+
+- Safety Helmet Detection Dataset
+- PPE Detection Dataset
+- Worker Detection Dataset
+- SafetyHelmetWearing Dataset, SHWD
+
+Estructura esperada del dataset completo:
+
+```text
+ppe_combined_dataset/
+    train/
+        images/
+        labels/
+    valid/
+        images/
+        labels/
+    test/
+        images/
+        labels/
+    data.yaml
+```
